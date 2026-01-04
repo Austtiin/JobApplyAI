@@ -1,0 +1,5 @@
+<!-- Placeholder for 48x48 icon -->
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" fill="#3B82F6" rx="8"/>
+  <text x="50%" y="50%" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">AI</text>
+</svg>

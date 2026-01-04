@@ -1,0 +1,5 @@
+<!-- Placeholder for 16x16 icon -->
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+  <rect width="16" height="16" fill="#3B82F6" rx="3"/>
+  <text x="50%" y="50%" font-size="10" fill="white" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">A</text>
+</svg>

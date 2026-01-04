@@ -1,0 +1,62 @@
+CONTACT
+Austin Stephens
+austinstephens103@gmail.com
+(651)-231-8917
+Minneapolis, MN
+
+LinkedIn
+GitHub
+AustinStephens.me
+
+SUMMARY
+Results-driven Computer Science graduate with expertise in cloud cost optimization, having managed 300+ Azure workloads and contributed to ~$250,000 in annual savings. Cloud FinOps Certified Practitioner and Azure Administrator Associate, experienced in cost modeling, cross-department collaboration, and improving IT operations. Skilled at aligning technical strategies with business goals to drive efficiency and informed decision-making.
+
+KEY SKILLS
+Microsoft Azure (Cost Management, Resource Optimization, Governance)
+IT Infrastructure & Networking (Programming, Scripting, Data Analysis)
+HALO ITSM, Lightspeed POS, DMS, Microsoft Office Suite
+CERTIFICATIONS
+Microsoft: Azure Administrator Associate
+Microsoft: Azure Fundamentals
+FinOps Certified Practitioner
+CJIS: Privileged
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Cost Efficiency Intern (FinOps)
+Hennepin County | Remote/Hybrid | Jun '24 - Present
+
+Cloud Optimization: Helped manage 300+ Azure workloads, improving efficiency through rightsizing, reservations, and savings plans; supported ~$250,000 in annual cloud savings.
+Collaboration & IT Service Management: Attended transition to HALO ITSM with IT operations; contributed to cross-departmental knowledge-sharing; established user documentation.
+Cost Analysis & Reporting: Reinforced IT finance strategy through cost modeling and in-depth analysis of ~$1M in annual Azure cloud spend across Commercial and Government tenants.
+Workload Forecasting & Budget Support: Estimated cloud workload deployments (including IoT and data-heavy workloads) while supporting budget forecasts to expand business value from cloud spend.
+KPIs & Unit Economics: Defined, created, and implemented 10+ key metrics; contributed to the development of in-house cloud cost monitoring tools.
+Executive Associate
+Fuhr Enterprise | Forest Lake, MN | May '22 - Present
+
+IT & Systems Management: Acted as IT generalist across 10+ buildings; supported POS systems, networking, server racks, and security equipment installation.
+Developed & Migrated dealership website hosting to Azure, achieving ~91% annual savings. Includes creation of CMS & Admin Panels.
+Sales & Customer Support: Improved client communication, lead generation, and reporting using Office Suite and DMS; assisted with in-store sales and customer engagement.
+Marketing & Business Administration: Created marketing materials, infographics, and internal documents; supported sales initiatives and general business operations.
+Partnership Coordination: Led non-profit initiatives and managed partnerships with major corporate sponsors.
+Event Management & HR Support: Managed online event ticketing, registration, and payment processing; provided ad-hoc administrative and HR support.
+Student Ambassador
+Rasmussen University | Blaine, MN | Feb '22 - Jun '22
+
+Student Engagement: Represented the university at front desk; supported academic staff with scheduling and correspondence.
+Diverse Communication: Attended to and collaborated with 50-100 diverse audiences monthly.
+Laboratory Phlebotomist
+MHealth – Fairview | Wyoming, MN | Oct '20 - Nov '21
+
+Patient Care & Lab Support: Collected and processed blood samples across ER, ICU, Med-Surge, OBGYN, and legal units.
+Compliance & Accuracy: Ensured data accuracy and adherence to LIS/HIS protocols in a high-pressure environment.
+EDUCATION
+
+Bachelor of Science (B.S.) - Computer Science
+Rasmussen University | GPA: 3.66
+Projected Graduation: Jul '23
+
+Associate of Science (A.S.) – Software Application Development
+Rasmussen University | GPA: 3.73
+Graduated: Mar '23
+
